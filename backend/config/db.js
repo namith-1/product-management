@@ -10,3 +10,6 @@ export const connectDB = async () => {
     }
     
 };
+
+// I am local Dev so i can connect to mongo direct
+// diffrent auths can be set for outside users ot team members 
